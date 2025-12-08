@@ -29,9 +29,12 @@ https://github.com/Azra1234-ai/LabAssignment9_Azra
 https://github.com/Azra1234-ai/LabAssignment10_Azra
 
 # Assignment 11
-
+https://github.com/Azra1234-ai/LabAssignment11_azra
 
 # Assignment 12
+https://github.com/Azra1234-ai/LabAssignment12_Azra
+
+
 
 
 # Assignment 13
@@ -39,3 +42,8 @@ https://github.com/Azra1234-ai/LabAssignment13_Azra
 
 # Assignment 14
 https://github.com/Azra1234-ai/LabAssignment14_Azra
+
+
+# Online certifications
+
+
