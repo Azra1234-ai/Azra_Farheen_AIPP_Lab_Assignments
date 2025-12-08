@@ -45,5 +45,6 @@ https://github.com/Azra1234-ai/LabAssignment14_Azra
 
 
 # Online certifications
+https://github.com/Azra1234-ai/certifications_azra_aipp.git
 
 
